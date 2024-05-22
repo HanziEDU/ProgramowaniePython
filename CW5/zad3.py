@@ -1,5 +1,4 @@
-# %% Zadanie 3: Projektowanie klas DamainWilk3
-#a
+
 class Pracownik:
     def __init__(self, imie, stanowisko, pensja):
         self.imie = imie
